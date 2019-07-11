@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Blazor Revealed*](https://www.apress.com/9781484243428) by Peter Himschoot (Apress, 2018).
+This repository is just a clone of the repository that accompanies [*Blazor Revealed*](https://www.apress.com/9781484243428) by Peter Himschoot (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484243428.jpg)
